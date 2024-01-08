@@ -30,6 +30,30 @@
     font-size: 72px;
     font-weight: 900;
     padding: 0px 177px;
-    transform: translateY(-40px);
-    
+    transform: translateY(-40px)
+}
+/* main section */
+.offer {
+    text-align: center;
+}
+.discount {
+    color: #F00;
+    font-size: 88px;
+    font-weight: 700;
+}
+.dis-para {
+    color: #F00;
+    font-size: 24px;
+    font-weight: 500;
+}
+.category {
+    color: #070211;
+    text-align: center;
+    font-size: 48px;
+    font-weight: 700;
+}
+.image {
+    width: 802.9px;
+    height: 500px;
+    margin: auto;
 }

@@ -13,8 +13,13 @@
     margin: auto;
 }
 .title {
-     text-align: center;
-     padding-top: 120px;
+    border-radius: 16px;
+    height: 480px;
+    text-align: center;
+    padding-top: 110px;
+    background-image: linear-gradient(to right,
+    rgba(0, 0, 0, 0.5),
+    rgba(0, 0, 0, 0)); 
 }
 .new-year{
     font-size: 32px;

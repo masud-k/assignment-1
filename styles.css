@@ -1,0 +1,29 @@
+/* banner style */
+.new-year {
+    font-family: 'Merriweather', serif;
+    
+}
+.banner {
+    background-image: url(./resources/Banner\ Image.png);
+    width: 1320px;
+    height: 600px;
+    font-family: 'Merriweather', serif;
+    color: #FFF;
+    border-radius: 16px;
+    margin: auto;
+}
+.title {
+     text-align: center;
+     padding-top: 120px;
+}
+.new-year{
+    font-size: 32px;
+    font-weight: 400;
+    margin-bottom: 0;
+}
+.celebrate {
+    font-size: 72px;
+    font-weight: 900;
+    padding: 0px 177px;
+    
+}

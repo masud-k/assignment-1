@@ -5,7 +5,7 @@
 }
 .banner {
     background-image: url(./resources/Banner\ Image.png);
-    width: 1320px;
+    width: 1220px;
     height: 600px;
     font-family: 'Merriweather', serif;
     color: #FFF;
@@ -14,11 +14,11 @@
 }
 .title {
     border-radius: 16px;
-    height: 480px;
+    height: 450px;
     text-align: center;
-    padding-top: 110px;
+    padding-top: 150px;
     background-image: linear-gradient(to right,
-    rgba(0, 0, 0, 0.5),
+    rgba(0, 0, 0, 0.6),
     rgba(0, 0, 0, 0)); 
 }
 .new-year{
@@ -30,5 +30,6 @@
     font-size: 72px;
     font-weight: 900;
     padding: 0px 177px;
+    transform: translateY(-40px);
     
 }

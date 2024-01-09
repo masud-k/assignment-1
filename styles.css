@@ -1,3 +1,6 @@
+body {
+    margin: auto;
+}
 /* banner style */
 .new-year {
     font-family: 'Merriweather', serif;
@@ -62,7 +65,7 @@
 .midnight {
     background-image: url(./resources/Vectorrr.png);
     background-repeat: no-repeat;
-    width: 1280px;
+    width: 1320px;
     height: 600px;
     padding-left: 120px;
     padding-top: 80px;
@@ -107,8 +110,6 @@
     margin: auto;
     padding-top: 100px;
     background: linear-gradient(180deg, rgba(255, 0, 0, 0.10) 0%, rgba(255, 0, 0, 0.00) 100%);
-
-
 }
 span {
     color: #F00;
@@ -124,6 +125,14 @@ span {
     border-radius: 8px;
     background: #F00;
     color: #FFF;
-
+}
+/* portfolio style */
+.portfolio {
+    width: 1320px;
+    height: 600px;
+    margin: 120px auto;
+}
+img {
+    margin: 05px;
 }
     

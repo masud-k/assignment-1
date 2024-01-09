@@ -1,6 +1,4 @@
-body {
-    margin: auto;
-}
+
 /* banner style */
 .new-year {
     font-family: 'Merriweather', serif;
@@ -95,12 +93,6 @@ body {
     justify-content: center;
     align-items: center;
 }
-/* .midnight {
-    background-image: linear-gradient(to right,
-    rgba(0, 0, 0, 0.8),
-    rgba(0, 0, 0, 0));  
-}*/
-
 /* date time section */
 .date-time {
     font-family: 'Inter', sans-serif;
@@ -132,7 +124,59 @@ span {
     height: 600px;
     margin: 120px auto;
 }
-img {
-    margin: 05px;
+
+.portfolio-head {
+    color: #F00;
+    font-family: 'Inter', sans-serif;
+    font-size: 20px;
+    font-weight: 500;
 }
-    
+.portfolio-head2{
+    font-family: Merriweather;
+    font-size: 48px;
+    font-weight: 900;
+}
+.portfolio-para {
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+}
+/* newsletter */
+.section4 {
+    width: 1320px;
+    height: 616px;
+    background: rgb(219, 60, 60);
+}
+footer {
+    width: 1600px;
+    height: 609px;
+    background: #070211;
+    margin: 600px auto 10px;
+
+}
+.upper {
+    display: flex;
+    justify-content: space-between;
+    color: #FFF;
+    font-family: 'Inter' ;
+    font-size: 24px;
+    font-weight: 500;
+    padding: 60px 100px;
+}
+.middle{
+    display: flex;
+    justify-content: center;
+}
+hr {
+    display: none;
+}
+.lower {
+    color: #FFF;
+    font-family: 'Inter';
+    font-size: 24px;
+    font-weight: 500;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px 100px 0px 100px;
+}

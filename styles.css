@@ -123,6 +123,7 @@ span {
     width: 1320px;
     height: 600px;
     margin: 120px auto;
+    display: block;
 }
 
 .portfolio-head {
@@ -142,16 +143,27 @@ span {
     font-weight: 400;
 }
 /* newsletter */
-.section4 {
+.newsletter {
     width: 1320px;
     height: 616px;
-    background: rgb(219, 60, 60);
+    border-radius: 16px;
+    background: rgba(255, 0, 0, 0.05);
+    margin: 600px auto 0px;
+    justify-content: center;
+    align-items: center;
+
+}
+img {
+    align-items: center;
+}
+.message {
+    text-align: center;
 }
 footer {
-    width: 1600px;
+    width: 1320px;
     height: 609px;
     background: #070211;
-    margin: 600px auto 10px;
+    margin: 120px auto;
 
 }
 .upper {
